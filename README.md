@@ -19,3 +19,10 @@
 ![3](https://user-images.githubusercontent.com/93256219/173463750-5c81a4e9-ba77-42e1-a9a8-593181ce7ecb.png)
 ![4](https://user-images.githubusercontent.com/93256219/173463751-fbf4ba4b-1d40-4966-8adc-08689937091d.png)
 ![5](https://user-images.githubusercontent.com/93256219/173463752-c597cd30-ce06-4183-8c5f-e375b007740f.png)
+
+## Распределение участков ZH-днк
+![genome](https://user-images.githubusercontent.com/93256219/173463923-9570029e-4bea-4667-9b43-f55f48d6f9fc.png)
+
+## Информация по полученным гомологичным кластерам
+Всего кластеров -- 1408
+![clusters](https://user-images.githubusercontent.com/93256219/173464339-cb2b1254-7313-4b79-ad56-d4d9617e38f1.png)
