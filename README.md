@@ -13,6 +13,8 @@
 | Bartonella henselae| 1 | 1905383 | 1523 | 1388804 | 72.89% | 1905383 | 3403; 33394 |
 | Bartonella tribocorum CIP 105476| 1 | 2642404 | 2199 | 1933078 | 73.16% | 2642404 | 5598; 54834  |
 
+Координаты участков Z-DNA для 5 выбранных геномов находятся в папке `predictions` (1 столбец - начало участка, 2 - конец, 3 - zh-score) 
+
 ## Гистограммы значений ZH-score 
 ![1](https://user-images.githubusercontent.com/93256219/173463741-6d53c863-fdfa-486d-9531-781e2d31e9d7.png)
 ![2](https://user-images.githubusercontent.com/93256219/173463747-4370a112-023d-43fe-988d-d610530fe610.png)
