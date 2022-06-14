@@ -39,3 +39,17 @@
 | Cluster 6| 5 | WP_012231777.1, WP_013545049.1, WP_015398067.1, WP_011180775.1, WP_053944301.1 | NADH-quinone oxidoreductase subunit NuoN | Промотор | См. ниже |
 | Cluster 7| 5 | WP_012231304.1, WP_013544855.1, WP_244427666.1, WP_034447403.1, WP_236824002.1 | lytic transglycosylase domain-containing protein | Участок гена | См. ниже |
 
+## Множественное белковое выравнивание
+Результаты выравнивания для семи кластеров см. в папке `alignments`.
+
+## Визуализация расположения участков Z-DNA
+Было выбрано 7 кластеров (в порядке приведения в таблице). Для каждого гена в одном кластере приведены значения Z-DNA 
+
+![clust1](https://user-images.githubusercontent.com/93256219/173468265-07296c42-829e-439c-a3ba-1ec3a2abe57f.png)
+![clust2](https://user-images.githubusercontent.com/93256219/173468269-bf0242ba-8b2e-40c1-ab51-5f2c6285f8dd.png)
+![clust3](https://user-images.githubusercontent.com/93256219/173468271-a58bbfc0-4815-4a03-9733-3949f978704a.png)
+![clust4](https://user-images.githubusercontent.com/93256219/173468273-d1361908-02b4-447d-9484-cb4df3bee206.png)
+![clust5](https://user-images.githubusercontent.com/93256219/173468274-0f127b3f-a034-47e9-9e24-7682dd445bb1.png)
+![clust6](https://user-images.githubusercontent.com/93256219/173468275-a583a942-3317-4123-aa0e-f753e44fb19a.png)
+![clust7](https://user-images.githubusercontent.com/93256219/173468267-1faf917d-4bc4-427f-aba3-5b744576ce60.png)
+
