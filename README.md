@@ -11,7 +11,7 @@
 | Bartonella australis AustNH1| 1 | 1596490 | 1344 | 1271412 | 79.64% | 1596490 | 5823; 55820 |
 | Bartonella clarridgeiae 73| 1 | 1522743 | 1238 | 1213959 | 79.72% | 1522743 | 1832; 17956 |
 | Bartonella henselae| 1 | 1905383 | 1523 | 1388804 | 72.89% | 1905383 | 3403; 33394 |
-| Bartonella tribocorum CIP 105476| 1 | 2642404 | 3339 | 1933078 | 73.16% | 2642404 | 5598; 54834  |
+| Bartonella tribocorum CIP 105476| 1 | 2642404 | 2199 | 1933078 | 73.16% | 2642404 | 5598; 54834  |
 
 ## Гистограммы значений ZH-score 
 ![1](https://user-images.githubusercontent.com/93256219/173463741-6d53c863-fdfa-486d-9531-781e2d31e9d7.png)
